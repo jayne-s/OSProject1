@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.utdallas.cs4348.SimpleTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-12T00:04:17" hostname="Jaynes-MacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="testSingleStartingLetter()" classname="edu.utdallas.cs4348.SimpleTests" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
